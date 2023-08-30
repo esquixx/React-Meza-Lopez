@@ -1,0 +1,142 @@
+[
+
+    {"id": "Gabinete Antec",
+    "titulo": "Gabinete Antec",
+    "imagen": "01",
+    "categoria": "Gabinetes",
+    "precio": 15000
+    },
+
+    {"id": "Gabinete Template",
+    "titulo": "Gabinete Template",
+    "imagen": "02.jpg",
+    "categoria": "Gabinetes",
+    "precio": 18000
+    },
+
+    {"id": "Gabinete Corsair",
+    "titulo": "Gabinete Corsair",
+    "imagen": "03.jpg",
+    "categoria": "Gabinetes",
+    "precio": 120000
+    },
+
+    {"id": "Gabinete Gamemax",
+    "titulo": "Gabinete Gamemax",
+    "imagen": "04.jpg",
+    "categoria": "Gabinetes",
+    "precio": 18000
+    },
+
+    {"id": "Gabinete Fan RGB",
+    "titulo": "Gabinete Fan RGB",
+    "imagen": "05.jpg",
+    "categoria": "Gabinetes",
+    "precio": 18000
+    },
+
+    {"id": "Gabinete Ryzen",
+    "titulo": "Gabinete Ryzen",
+    "imagen": "06.jpg",
+    "categoria": "Gabinetes",
+    "precio": 25000
+    },
+
+    {"id": "Monitor Odissey",
+    "titulo": "Monitor Odissey",
+    "imagen": "07.jpg",
+    "categoria": "Monitores",
+    "precio": 18000
+    },
+
+    {"id": "Monitor Led",
+    "titulo": "Monitor Led",
+    "imagen": "08.jpg",
+    "categoria": "Monitores",
+    "precio": 27000
+    },
+
+    {"id": "Monitor UltraWide",
+    "titulo": "Monitor UltraWide",
+    "imagen": "09.jpg",
+    "categoria": "Monitores",
+    "precio": 60000
+    },
+
+    {"id": "Monitor 24 pulgadas",
+    "titulo": "Monitor 24 pulgadas",
+    "imagen": "10.jpg",
+    "categoria": "Monitores",
+    "precio": 39000
+    },
+
+    {"id": "Monitor Curvo",
+    "titulo": "Monitor Curvo",
+    "imagen": "11.jpg",
+    "categoria": "Monitores",
+    "precio": 180000
+    },
+
+    {"id": "Auriculares Blancas",
+    "titulo": "Auriculares Blancas",
+    "imagen": "12.jpg",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+    {"id": "Auriculares Negras",
+    "titulo": "Auriculares Negras",
+    "imagen": "13.jpg",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+
+    {"id": "Auriculares RGB",
+    "titulo": "Auriculares RGB",
+    "imagen": "14.jpg",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+
+    {"id": "Mousse Gamer",
+    "titulo": "Mousse Gamer",
+    "imagen": "15.jpg",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+
+    {"id": "Mousse LoL",
+    "titulo": "Mousse LoL",
+    "imagen": "16.jpg",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+    {"id": "Teclado Nedro",
+    "titulo": "Teclado Nedro",
+    "imagen": "17.jpg",
+    "categoria": "Perifericos",
+    "precio": 5000
+    },
+
+
+    {"id": "Teclado Mecanico",
+    "titulo": "Teclado Mecanico",
+    "imagen": "18.jpg",
+    "categoria": "Perifericos",
+    "precio": 15000
+    },
+
+    {"id": "Teclado Blanco Mecanico",
+    "titulo": "Teclado Blanco Mecanico",
+    "imagen": "19.jpg",
+    "categoria": "Perifericos",
+    "precio": 21000
+    }
+
+    
+]
+
