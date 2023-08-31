@@ -1,16 +1,19 @@
+
 [
 
     {"id": "Gabinete Antec",
     "titulo": "Gabinete Antec",
     "imagen": "01",
     "categoria": "Gabinetes",
+    "descripcion" : "Gabinete Antec: Diseño elegante y compacto. Ideal para sistemas de juego. Mejora la refrigeración y ofrece opciones de expansión. ",
     "precio": 15000
     },
 
     {"id": "Gabinete Template",
     "titulo": "Gabinete Template",
-    "imagen": "02.jpg",
+    "imagen": "../assets/02.jpg",
     "categoria": "Gabinetes",
+    "descripcion" : "Gabinete Antec: Diseño elegante y compacto. Ideal para sistemas de juego. Mejora la refrigeración y ofrece opciones de expansión. ",
     "precio": 18000
     },
 

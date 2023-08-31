@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import './Style.css';
 import img from "../assets/01.jpg"
 
@@ -32,7 +32,7 @@ export default function ItemListContainer() {
             <h2>{item.titulo}</h2>
             <img src={img} alt={item.titulo} />
             <p>Precio: ${item.precio}</p>
-            <button onClick={() => handleVerProducto(item.id)}>Ver Producto</button>
+            <Link to={`/item/${item.id}`} className="ver-mas">Ver Mas</Link>
           </div>
         ))}
       </div>
