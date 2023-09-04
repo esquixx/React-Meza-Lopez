@@ -1,0 +1,161 @@
+
+[
+
+    {"id": 1,
+    "titulo": "Gabinete Antec",
+    "imagen": "./img/01.jpg",
+    "descripcion": "Diseño elegante y compacto, mejora la refrigeración y ofrece opciones de expansión para sistemas de juego.",
+    "categoria": "Gabinetes",
+    "precio": 15000
+    },
+
+    {"id": 2,
+    "titulo": "Gabinete",
+    "descripcion": " Elegante gabinete diseñado para entusiastas, con espacio para componentes de alto rendimiento y una estética moderna.",
+    "categoria": "Gabinetes",
+    "precio": 18000
+    },
+
+    {"id": 3,
+    "titulo": "Gabinete Corsair",
+    "imagen": "03.jpg",
+    "descripcion": "El gabinete Corsair ofrece un diseño premium con iluminación RGB personalizable y excelente flujo de aire para sistemas avanzados.",
+    "categoria": "Gabinetes",
+    "precio": 120000
+    },
+
+    {"id": 4,
+    "titulo": "Gabinete Gamemax",
+    "imagen": "04.jpg",
+    "descripcion": "Gabinete Gamemax con iluminación LED y paneles laterales de vidrio templado para mostrar tu construcción de alta gama.",
+    "categoria": "Gabinetes",
+    "precio": 18000
+    },
+
+    {"id": 5,
+    "titulo": "Gabinete Fan RGB",
+    "imagen": "05.jpg",
+    "descripcion": "Diseño moderno con ventiladores RGB, perfecto para construcciones de juego vibrantes y un flujo de aire eficiente. ",
+    "categoria": "Gabinetes",
+    "precio": 18000
+    },
+
+    {"id": 6,
+    "titulo": "Gabinete Ryzen",
+    "imagen": "06.jpg",
+    "descripcion": "Gabinete diseñado para procesadores Ryzen, con espacio para refrigeración líquida y una estética gamer llamativa.",
+    "categoria": "Gabinetes",
+    "precio": 25000
+    },
+
+    {"id": 7,
+    "titulo": "Monitor Odissey",
+    "imagen": "07.jpg",
+    "descripcion": "Monitor Odissey con pantalla curva para una experiencia inmersiva y colores vibrantes.",
+    "categoria": "Monitores",
+    "precio": 18000
+    },
+
+    {"id": 8,
+    "titulo": "Monitor Led",
+    "imagen": "08.jpg",
+    "descripcion": "Monitor LED de alta resolución y rendimiento para una visualización nítida y colores realistas.",
+    "categoria": "Monitores",
+    "precio": 27000
+    },
+
+    {"id": 9,
+    "titulo": "Monitor UltraWide",
+    "imagen": "09.jpg",
+    "descripcion": "Monitor UltraWide con una amplia pantalla panorámica para una productividad y juegos excepcionales.",
+    "categoria": "Monitores",
+    "precio": 60000
+    },
+
+    {"id": 10,
+    "titulo": "Monitor 24 pulgadas",
+    "imagen": "10.jpg",
+    "descripcion": "Monitor de 24 pulgadas con calidad de imagen impresionante y diseño delgado.",
+    "categoria": "Monitores",
+    "precio": 39000
+    },
+
+    {"id": 11,
+    "titulo": "Monitor Curvo",
+    "imagen": "11.jpg",
+    "descripcion": "Monitor curvo de 32 pulgadas con alta resolución y frecuencia de actualización para juegos envolventes.",
+    "categoria": "Monitores",
+    "precio": 180000
+    },
+
+    {"id": 12,
+    "titulo": "Auriculares Blancas",
+    "imagen": "12.jpg",
+    "descripcion": "Auriculares blancos con sonido de alta calidad y comodidad para largas sesiones de juego.",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+    {"id": 13,
+    "titulo": "Auriculares Negras",
+    "imagen": "13.jpg",
+    "descripcion": "Auriculares negros con micrófono y sonido envolvente para una experiencia de juego inmersiva.",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+
+    {"id": 14,
+    "titulo": "Auriculares RGB",
+    "imagen": "14.jpg",
+    "descripcion": "Auriculares negros con micrófono y sonido envolvente para una experiencia de juego inmersiva.",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+
+    {"id": 15,
+    "titulo": "Mousse Gamer",
+    "imagen": "15.jpg",
+    "descripcion": "Ratón ergonómico diseñado para jugadores, con botones programables y seguimiento preciso.",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+
+    {"id": 16,
+    "titulo": "Mousse LoL",
+    "imagen": "16.jpg",
+    "descripcion": "Ratón con diseño temático de League of Legends, ideal para fanáticos del juego.",
+    "categoria": "Perifericos",
+    "precio": 110000
+    },
+
+    {"id": 17,
+    "titulo": "Teclado Nedro",
+    "imagen": "17.jpg",
+    "descripcion": "Teclado de membrana con teclas silenciosas y diseño compacto para una escritura cómoda.",
+    "categoria": "Perifericos",
+    "precio": 5000
+    },
+
+
+    {"id": 18,
+    "titulo": "Teclado Mecanico",
+    "imagen": "18.jpg",
+    "descripcion": "Teclado mecánico con retroiluminación y switches precisos para una experiencia de escritura superior.",
+    "categoria": "Perifericos",
+    "precio": 15000
+    },
+
+    {"id": 19,
+    "titulo": "Teclado Blanco Mecanico",
+    "imagen": "19.jpg",
+    "descripcion": "Teclado mecánico blanco con retroiluminación LED y switches táctiles para una escritura rápida y precisa.",
+    "categoria": "Perifericos",
+    "precio": 21000
+    }
+
+    
+]
+

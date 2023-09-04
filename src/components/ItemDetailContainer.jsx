@@ -8,9 +8,9 @@ export default function ItemDetailContainer ( )  {
 
     useEffect (() => {
         const getProduct = async () => {
-            const response = await fetch("/data/products.json")
+            const response = await fetch("../data/products.json")
             const products= await response.json()
-            const filteredProduct = products.find(product => product.id === id)
+            const filteredProduct = products.find(product => product.id === parseInt(id))
             
             setDetail(filteredProduct)
         }
@@ -18,5 +18,5 @@ export default function ItemDetailContainer ( )  {
     }, [id])
 return ( 
   <ItemDetail detail={detail} />
-);
+)
 }
